@@ -170,7 +170,7 @@ void CstopwatchDlg::OnEnChangeeditbox()
 	// TODO:  Add your control notification handler code here
 }
 
-
+// Timer function 
 void CstopwatchDlg::OnTimer(UINT_PTR nIDEvent)
 {
 	 static long cout=0; // unsigned makes the viriable positive / non negative 
