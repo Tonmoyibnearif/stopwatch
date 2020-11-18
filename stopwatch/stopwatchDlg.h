@@ -14,7 +14,7 @@ public:
 
 // Dialog Data
 #ifdef AFX_DESIGN_TIME
-	enum { IDD = IDD_STOPWATCH_DIALOG };
+	enum { IDD = IDD_STOPWATCH_DIALOG }; // resource window
 #endif
 
 	protected:

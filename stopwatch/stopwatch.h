@@ -15,7 +15,7 @@
 // See stopwatch.cpp for the implementation of this class
 //
 
-class CstopwatchApp : public CWinApp
+class CstopwatchApp : public CWinApp //Creating an APP
 {
 public:
 	CstopwatchApp();

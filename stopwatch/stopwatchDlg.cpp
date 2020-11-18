@@ -51,7 +51,7 @@ END_MESSAGE_MAP()
 
 
 CstopwatchDlg::CstopwatchDlg(CWnd* pParent /*=nullptr*/)
-	: CDialogEx(IDD_STOPWATCH_DIALOG, pParent)
+	: CDialogEx(IDD_STOPWATCH_DIALOG, pParent) // dialouge resource file
 {
 	m_hIcon = AfxGetApp()->LoadIcon(IDR_MAINFRAME);
 }
